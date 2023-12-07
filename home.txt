@@ -1,0 +1,6 @@
+git init -inicializar o git
+git status - verifica o sistema
+git add . adiciona os arquivos para serem comitados
+git commit -m "Digite sua mensagem"
+git merge nome-da-branch
+
