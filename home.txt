@@ -4,3 +4,4 @@ git add . adiciona os arquivos para serem comitados
 git commit -m "Digite sua mensagem"
 git merge nome-da-branch
 Linha escrita na main
+linha escrita no repositorio local
